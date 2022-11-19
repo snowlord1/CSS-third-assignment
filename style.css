@@ -1,0 +1,97 @@
+
+body{
+    background-color: brown;
+}
+#main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgb(red, green, blue);
+}
+#title{
+    font-size: 4rem;
+    margin-bottom: 0;
+    padding: 10px;
+    color: white
+}
+.man{
+    color: white;
+}
+#url{
+    background-image: url(image.jpg);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-color: rgb(red, green, blue);
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+.image{
+
+    background-image: url(image.jpg);
+}
+body{
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #330e0e;
+}
+  #imgcaption{
+    color: #fff;
+    margin-bottom: auto;
+  }
+  body{
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    color: white;
+  }
+  #heading{
+    margin: 40px 0;
+    text-align: center;
+    color: #fff;
+  }
+  body{
+    font-family: 'poppins', sans-serif;
+    font-size: 1.5rem;
+    list-style: 1.5;
+  }
+  .ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  .ul{
+    color: rgb(red, green, blue);
+  }
+  body{
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+  }
+  blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  .lis{
+    color: #fff;
+  }
+  .lis{
+    color: #fff;
+  }
+  body{
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  body{
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+  }
